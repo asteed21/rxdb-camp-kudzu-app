@@ -1,4 +1,4 @@
-import * as RxDB from 'rxdb';
+import RxDB from 'rxdb';
 
 RxDB.QueryChangeDetector.enableDebugging();
 
